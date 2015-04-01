@@ -1,0 +1,25 @@
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\seeduc\Desktop\Classe\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\NAVE\Antoanne\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\Lista Duplamente Encadeada.exe.config

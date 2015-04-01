@@ -1,0 +1,7 @@
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\Lista Duplamente Encadeada.exe.config
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\Lista Duplamente Encadeada.exe
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\bin\Debug\Lista Duplamente Encadeada.pdb
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\listaduplamente.Properties.Resources.resources
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\Lista Duplamente Encadeada.csproj.GenerateResource.Cache
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\Lista Duplamente Encadeada.exe
+C:\Users\Luiz.Torres\Desktop\Lista duplicada\WindowsFormsApplication1\obj\Debug\Lista Duplamente Encadeada.pdb

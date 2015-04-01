@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista Duplamente Encadeada", "WindowsFormsApplication1\Lista Duplamente Encadeada.csproj", "{CFD2FF6B-8F72-4C18-ABA4-7099BDFEEB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD2FF6B-8F72-4C18-ABA4-7099BDFEEB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD2FF6B-8F72-4C18-ABA4-7099BDFEEB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD2FF6B-8F72-4C18-ABA4-7099BDFEEB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD2FF6B-8F72-4C18-ABA4-7099BDFEEB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
