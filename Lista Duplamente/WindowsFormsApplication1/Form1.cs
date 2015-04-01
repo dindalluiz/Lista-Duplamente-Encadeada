@@ -12,32 +12,34 @@ namespace listaduplamente
 {
     public partial class Form1 : Form
     {
-        ListDindal[] alo = new ListDindal[200];
+        private List lista;
 
         public Form1()
         {
-            int sec = System.DateTime.Now.Second;
-
             InitializeComponent();
-            alo[0] = new ListDindal(1,null, null);
+        }
 
-            for (int i = 1; i < alo.Length; i++)
-            {
-                alo[i] = new ListDindal(i+(2*sec), (i == 0) ? null : alo[i-1], null);
-            }
+        private void CarregarPrograma(object sender, EventArgs e)
+        {
+            lista = new List();
+        }
 
-            for (int i = 1; i < alo.Length;i++ )
-            {
-                alo[i-1].next = alo[i];
-            }
+        private void InicializarLista(object sender, EventArgs e)
+        {
+            Element Element = new Element(lista.Count);
+            lista.Adiciona(Element);
+        }
 
-            alo[alo.Length-1].next = alo[0];
-            alo[0].prev = alo[alo.Length - 1];
+        private void AdicionaElemento(object sender, EventArgs e)
+        {
+            Random r = new Random();
+            Element Element = new Element(lista.Count);
+            lista.Adiciona(new Element(r.Next(1, 100) + (2 * DateTime.Now.Second)));
+        }
 
-
-            Console.WriteLine("Prev: "+alo[0].prev.value);
-
-            Console.WriteLine("Next: "+alo[alo.Length-1].value);
+        private void ExibirLista(object sender, EventArgs e)
+        {
+            lista.ImprimeLista();
         }
     }
 }
